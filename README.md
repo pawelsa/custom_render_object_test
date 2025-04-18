@@ -9,8 +9,8 @@ This custom RenderObject should show text, but there are some constraints:
 
 ## Recordings
 
-![](./recordings/custom_render_object.mov)
+https://github.com/pawelsa/custom_render_object_test/blob/a63a88dc9dc67f4e03ce630039f6fc58ad9c8d87/recordings/custom_render_object.mov
 
 ### Recording with layout borders
 
-![](./recordings/custom_render_object_with_layout_borders.mov)
+https://github.com/pawelsa/custom_render_object_test/blob/a63a88dc9dc67f4e03ce630039f6fc58ad9c8d87/recordings/custom_render_object_with_layout_borders.mov
